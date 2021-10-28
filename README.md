@@ -1,7 +1,5 @@
 # 64Bit-Kernel
 
-Followed a Tutorial and did some changes to give it a peronal touch
-
 Designed a kernel for a 64-bit OS
 
 Right now it just prints a single Hardcoded string "64 Bit KERNEL --Yeshasvi" (Even this required Lots of work)
